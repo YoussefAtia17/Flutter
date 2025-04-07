@@ -18,6 +18,13 @@ intl: ^0.20.2
 easy_localization: ^3.0.7+1
 # UI
 flutter_native_splash: ^2.4.5
+# An SVG rendering and widget library for Flutter, which allows painting
+flutter_svg: ^2.0.17
+# A flutter plugin for adapting screen and font size
+flutter_screenutil: ^5.9.3
+
+
+
 
 
 
